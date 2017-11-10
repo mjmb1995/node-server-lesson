@@ -1,0 +1,23 @@
+{
+  "name": "server-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjmb1995/node-server-lesson.git"
+  },
+  "author": "Mark Bihag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjmb1995/node-server-lesson/issues"
+  },
+  "homepage": "https://github.com/mjmb1995/node-server-lesson#readme",
+  "dependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
